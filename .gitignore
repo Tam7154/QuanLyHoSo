@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Assets/Firebase
+/Packages
+/Temp
+/UserSettings
+/ProjectSettings
+/obj/Debug
+/Logs
+/Library
+/Build
